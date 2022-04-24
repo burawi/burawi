@@ -1,5 +1,5 @@
 ### Hello Hello 👋
-![https://www.linkedin.com/in/burawi-ben-ammar/](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/burawi-ben-ammar/) [![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/burawi.ba)
 
 <!--
 **burawi/burawi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
